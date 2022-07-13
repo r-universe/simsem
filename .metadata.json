@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "semTools",
+    "oncran": true
+  }
+]

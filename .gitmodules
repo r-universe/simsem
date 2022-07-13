@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "semTools"]
+	path = semTools
+	url = https://github.com/simsem/semtools
+	shallow = true
+	subdir = semTools
+	registered = true
